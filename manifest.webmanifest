@@ -1,0 +1,15 @@
+{
+  "name": "Geburtstags-Überraschung",
+  "short_name": "Party",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#2a3b4c",
+  "theme_color": "#2a3b4c",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    }
+  ]
+}
